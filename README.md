@@ -37,6 +37,7 @@ https://dailyprayer.abdulrcs.repl.co/api/ (City Name)
 > but you can always still fork the repo, spin up the main.py yourself, and self-host the Daily Prayer Time API yourself :) 
 
 
+
 ## Here's an example 😉
 ### Print the Data in Python:
 ```python
